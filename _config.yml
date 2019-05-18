@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Les Recettes de Beunoua
 description: Les recettes que c'est celles que j'aime bien
+github:
+  is_project_page: False
