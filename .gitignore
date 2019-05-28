@@ -1,0 +1,8 @@
+# OS X files
+.DS_Store
+
+# Jekyll files
+.bundle/
+_site/
+vendor/
+Gemfile.lock
