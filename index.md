@@ -1,24 +1,43 @@
-# Salé
+
+# Plats Principaux
 
 - [Baked Beans](baked-beans)
-- [Cake au Chorizo](cake-chorizo)
 - [Chili Con Carne](chili-con-carne)
 - [Chili Végétarien](chili-vegetarien)
 - [Hachi Camarguais](hachis-camarguais)
 - [Lasagnes](lasagnes)
+- [Poulet Vindaloo](poulet-vindaloo)
+- [Sauté de Veau au Chorizo](saute-veau-chorizo)
+
+
+# Apéritifs
+
+- [Cake au Chorizo](cake-chorizo)
+
+
+# Entrées
+
 - [Mousseline de Merlu Façon Arlequin](mousseline-merlu-arlequin)
+- [Pakoras de Légumes](pakoras-legumes)
 - [Taboulé](taboule)
 
 
-# Sucré
+# Desserts
 
-- [Gateau au Yaourt](gateau-yaourt)
+- [Cookies](cookies)
+- [Gâteau Chocolat-Noisettes](gateau-choco-noisettes)
+- [Gâteau au Yaourt](gateau-yaourt)
+- [Moelleux au Chololat Blanc et Framboises](moelleux-choco-blanc-framboises)
+- [Petits Pains d'Épice Glacés](pains-epices-glaces)
+- [Tarte Alsacienne](tarte-alsacienne)
+
+
+# Petits Déjeuners
+
 - [Granola](granola-2)
 - [Granola 2](granola-2)
-- [Moelleux au Chololat Blanc et Framboises](moelleux-choco-blanc-framboises)
 - [Overnight Oats](overnight-oats)
 - [Pancakes](pancakes)
-- [Petits Pains d'Épice Glacés](pains-epices-glaces)
 
 
 # Épices

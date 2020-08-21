@@ -1,8 +1,8 @@
 ---
-title: Gateau au Yaourt
+title: Gâteau au Yaourt
 ---
 
-# Le Gateau au Yaourt
+# Le Gâteau au Yaourt
 
 ## Ingrédients
 
