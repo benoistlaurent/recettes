@@ -6,7 +6,7 @@ layout: default
 
 - [Cake au Chorizo](cake-chorizo)
 - [Cake Jambon-Olives](cake-jambon-olives)
-- [Muffins au Chorizo](muffin-chorizo)
+- [Muffins au Chorizo](muffins-chorizo)
 
 # Entrées
 
