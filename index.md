@@ -2,15 +2,6 @@
 layout: default
 ---
 
-- [Apéritifs](#apéritifs)
-- [Entrées](#entrées)
-- [Plats Principaux](#plats-principaux)
-- [Desserts](#desserts)
-- [Petits Déjeuners](#petits-déjeuners)
-- [Épices](#épices)
-- [Sauces](#sauces)
-
-
 # Apéritifs
 
 - [Cake au Chorizo](cake-chorizo)
