@@ -4,6 +4,7 @@
 - [Baked Beans](baked-beans)
 - [Chili Con Carne](chili-con-carne)
 - [Chili Végétarien](chili-vegetarien)
+- [Estoufade de Boeuf aux Tomates](estoufade-boeuf-tomates)
 - [Hachi Camarguais](hachis-camarguais)
 - [Lasagnes](lasagnes)
 - [Poulet Vindaloo](poulet-vindaloo)
@@ -13,7 +14,8 @@
 # Apéritifs
 
 - [Cake au Chorizo](cake-chorizo)
-
+- [Cake Jambon-Olives](cake-jambon-olives)
+- [Muffins au Chorizo](muffin-chorizo)
 
 # Entrées
 
@@ -25,8 +27,10 @@
 # Desserts
 
 - [Cookies](cookies)
+- [Crumble aux Pommes](crumble-pommes)
 - [Gâteau Chocolat-Noisettes](gateau-choco-noisettes)
 - [Gâteau au Yaourt](gateau-yaourt)
+- [Gâteau Moelleux à Coeur de Maman](gateau-moelleux-maman)
 - [Moelleux au Chololat Blanc et Framboises](moelleux-choco-blanc-framboises)
 - [Petits Pains d'Épice Glacés](pains-epices-glaces)
 - [Tarte Alsacienne](tarte-alsacienne)
