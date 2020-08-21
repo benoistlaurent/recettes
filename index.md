@@ -28,11 +28,13 @@
 
 - [Cookies](cookies)
 - [Crumble aux Pommes](crumble-pommes)
+- [Gateau au Chocolat](gateau-choco)
 - [Gâteau Chocolat-Noisettes](gateau-choco-noisettes)
 - [Gâteau au Yaourt](gateau-yaourt)
 - [Gâteau Moelleux à Coeur de Maman](gateau-moelleux-maman)
 - [Moelleux au Chololat Blanc et Framboises](moelleux-choco-blanc-framboises)
 - [Petits Pains d'Épice Glacés](pains-epices-glaces)
+- [Riz-au-lait](riz-au-lait)
 - [Tarte Alsacienne](tarte-alsacienne)
 
 

@@ -4,6 +4,13 @@ title: Hachis Carmaguais
 
 # Le Hachis Carmaguais
 
+
+## Temps utiles :
+
+- Préparation : 40 min
+- Cuisson : 40 min
+
+
 ## Ingrédients QSP 4 personnes
 
 - 450 g steak haché
