@@ -28,4 +28,4 @@ title: Granola 2
 - Mélanger
 - Enfourner 
 - Retourner toutes les 10 minutes jusqu’à ce que les flocons d’avoine soit joliment dorés
-- Une fois le mélange refroidi, ajouter des fruits secs (raisins, canneberge, …)
+- Une fois le mélange refroidi, ajouter des fruits secs (raisins, canneberge, ...)

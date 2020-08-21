@@ -17,6 +17,7 @@
 - [Granola 2](granola-2)
 - [Moelleux au Chololat Blanc et Framboises](moelleux-choco-blanc-framboises)
 - [Overnight Oats](overnight-oats)
+- [Pancakes](pancakes)
 - [Petits Pains d'Épice Glacés](pains-epices-glaces)
 
 
