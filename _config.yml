@@ -19,7 +19,6 @@ defaults:
 exclude: [
   Gemfile,
   Gemfile.lock,
-  index.md,
   Makefile,
   README.md,
   update_index.py
