@@ -6,3 +6,12 @@
 .page-header {
     padding: 2rem;
 }
+
+a#header-home-link {
+    color: $header-heading-color;
+}
+
+/* mouse over link */
+a#header-home-link:hover {
+    text-decoration: none;
+}
