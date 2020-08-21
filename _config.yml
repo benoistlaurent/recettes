@@ -15,3 +15,12 @@ defaults:
       type: "recettes"
     values:
       layout: default
+  
+exclude: [
+  Gemfile,
+  Gemfile.lock,
+  index.md,
+  Makefile,
+  README.md,
+  update_index.py
+]

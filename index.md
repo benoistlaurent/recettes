@@ -1,4 +1,10 @@
-## Les recettes de Beunoua
+# Salé
 
-- [Chilli con carne](chilli-con-carne)
-- [Hachi camarguais](hachis-camarguais)
+- [Chilli Con Carne](chilli-con-carne)
+- [Hachi Camarguais](hachis-camarguais)
+- [Baked Beans](baked-beans)
+
+# Sucré
+
+- [Overnight Oats](overnight-oats)
+- [Granola 2](granola-2)
