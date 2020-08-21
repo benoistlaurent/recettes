@@ -1,14 +1,14 @@
+---
+layout: default
+---
 
-# Plats Principaux
-
-- [Baked Beans](baked-beans)
-- [Chili Con Carne](chili-con-carne)
-- [Chili Végétarien](chili-vegetarien)
-- [Estoufade de Boeuf aux Tomates](estoufade-boeuf-tomates)
-- [Hachi Camarguais](hachis-camarguais)
-- [Lasagnes](lasagnes)
-- [Poulet Vindaloo](poulet-vindaloo)
-- [Sauté de Veau au Chorizo](saute-veau-chorizo)
+- [Apéritifs](#apéritifs)
+- [Entrées](#entrées)
+- [Plats Principaux](#plats-principaux)
+- [Desserts](#desserts)
+- [Petits Déjeuners](#petits-déjeuners)
+- [Épices](#épices)
+- [Sauces](#sauces)
 
 
 # Apéritifs
@@ -23,6 +23,17 @@
 - [Pakoras de Légumes](pakoras-legumes)
 - [Taboulé](taboule)
 
+
+# Plats Principaux
+
+- [Baked Beans](baked-beans)
+- [Chili Con Carne](chili-con-carne)
+- [Chili Végétarien](chili-vegetarien)
+- [Estoufade de Boeuf aux Tomates](estoufade-boeuf-tomates)
+- [Hachi Camarguais](hachis-camarguais)
+- [Lasagnes](lasagnes)
+- [Poulet Vindaloo](poulet-vindaloo)
+- [Sauté de Veau au Chorizo](saute-veau-chorizo)
 
 # Desserts
 
