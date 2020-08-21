@@ -1,7 +1,8 @@
 ---
+title: Chilli con carne
 ---
 
-# Chilli con carne
+# Le Chilli con carne
 
 ## Ingrédients QSP 4 couverts
 
