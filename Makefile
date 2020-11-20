@@ -4,3 +4,7 @@ all:
 
 serve:
 	bundle exec jekyll serve
+
+bundle-install:
+	bundle install
+

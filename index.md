@@ -14,12 +14,16 @@ layout: default
 - [Pakoras de Légumes](pakoras-legumes)
 - [Taboulé](taboule)
 
+# Mélanges d'Épices
+
+- [Épices à Curry](epices-curry)
 
 # Plats Principaux
 
 - [Baked Beans](baked-beans)
 - [Chili Con Carne](chili-con-carne)
 - [Chili Végétarien](chili-vegetarien)
+- [Curry de Patates Douces et Pois Chiches](curry-patates-douces-pois-chiches)
 - [Estoufade de Boeuf aux Tomates](estoufade-boeuf-tomates)
 - [Hachi Camarguais](hachis-camarguais)
 - [Lasagnes](lasagnes)
