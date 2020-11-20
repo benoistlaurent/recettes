@@ -15,7 +15,11 @@ title: Curry de Patates Douces et Pois Chiches
 - 3 gousses d'ail
 - gingembre
 - 1 patate douce
+<<<<<<< HEAD
 - 0.5 L de bouillon de poulet
+=======
+- 1 L de bouillon de poulet
+>>>>>>> e94ec327baeca8afc1e276d275f9a53f4fb5526a
 - 125 g yaourt à la grecque
 - 400 g de pulpe de tomates 
 - 400 g de pois chiches
@@ -30,7 +34,11 @@ title: Curry de Patates Douces et Pois Chiches
 - Raper le gingembre
 - Presser l'ail.
 - Faire chauffer l'huile d'olive dans une sauteuse
+<<<<<<< HEAD
 - Ajouter les oignons ciselés, l'ail et le gingembre
+=======
+- Ajouter les oignons ciselés et l'ail
+>>>>>>> e94ec327baeca8afc1e276d275f9a53f4fb5526a
 - Cuire 5 min
 - Ajouter les épices à curry
 - Cuire 1 min
@@ -43,3 +51,4 @@ title: Curry de Patates Douces et Pois Chiches
 - Ajouter le yaourt à la grecque
 
 Servir avec des brocolis.
+
