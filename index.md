@@ -49,6 +49,7 @@ layout: default
 - [Granola](granola-2)
 - [Granola 2](granola-2)
 - [Overnight Oats](overnight-oats)
+- [Protein Overnight Oats](overnight-oats-base)
 - [Pancakes](pancakes)
 
 
