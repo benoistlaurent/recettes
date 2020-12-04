@@ -42,6 +42,7 @@ layout: default
 - [Petits Pains d'Épice Glacés](pains-epices-glaces)
 - [Riz-au-lait](riz-au-lait)
 - [Tarte Alsacienne](tarte-alsacienne)
+- [Tarte à la Citrouille (Pumpkin Pie)](tarte-citrouille)
 
 
 # Petits Déjeuners
