@@ -4,6 +4,9 @@ title: Riz au Lait
 
 # La Tarte à la Citrouille (Pumpkin Pie)
 
+## Matériel
+
+- Plat à tarte 22 cm max
 
 ## Ingrédients QSP 8 parts
 
