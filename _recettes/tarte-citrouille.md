@@ -1,5 +1,5 @@
 ---
-title: Riz au Lait
+title: Pumpkin Pie
 ---
 
 # La Tarte à la Citrouille (Pumpkin Pie)
