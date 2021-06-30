@@ -32,6 +32,7 @@ layout: default
 
 # Desserts
 
+- [Brownies](tasty-brownies)
 - [Cookies](cookies)
 - [Crumble aux Pommes](crumble-pommes)
 - [Gateau au Chocolat](gateau-choco)
